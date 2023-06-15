@@ -1,6 +1,5 @@
 # Breast-Cancer-Prediction
-This project aims to predict the likelihood of cancer using logistic regression. Logistic regression is a popular machine learning algorithm that 
-is well-suited for binary classification problems, such as predicting whether a patient has cancer or not.
+This project aims to predict the likelihood of cancer using Support Vector Machines (SVM). SVM is a powerful machine learning algorithm that can handle both linear and non-linear classification problems effectively.
 
 Dataset
 The dataset used for this project is from kaggle:
